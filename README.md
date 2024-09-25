@@ -2,6 +2,8 @@
 
 Welcome to the **Docker Resource Monitor**! This application allows you to monitor the memory usage of your Docker containers in real-time, with features to start and stop memory-consuming processes. 🌟
 
+This project is designed to help developers and system administrators manage Docker resources effectively by providing insights into memory consumption. By using this tool, you can visualize resource usage patterns, identify bottlenecks, and optimize the performance of your containers.
+
 ## 🚀 Features
 - **Check Resource Usage**: Monitor the current memory usage of your Docker containers.
 - **Start Memory Consumer**: Create a memory-intensive process to test your system’s limits.
@@ -57,6 +59,5 @@ This project is licensed under the `MIT License` - see the [LICENSE](LICENSE) fi
 ## 🙌 Contributing
 Feel free to contribute! Open an issue or submit a pull request for any improvements or bug fixes.
 
----
 
 Thank you for checking out the **Docker Resource Monitor**! Happy monitoring! 🎉
