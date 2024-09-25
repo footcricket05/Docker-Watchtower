@@ -1,4 +1,4 @@
-# 📊 Docker Resource Monitor
+# 📊 Docker-Watchtower: Docker Resource Monitor
 
 Welcome to the **Docker Resource Monitor**! This application allows you to monitor the memory usage of your Docker containers in real-time, with features to start and stop memory-consuming processes. 🌟
 
