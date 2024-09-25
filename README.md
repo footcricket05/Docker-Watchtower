@@ -49,7 +49,7 @@ Welcome to the **Docker Resource Monitor**! This application allows you to monit
 - **Stop Memory Consumer**: Click the "Stop Memory Consumer" button to terminate the process.
 
 ## 🎨 Screenshot
-![Docker Resource Monitor Screenshot](![image](https://github.com/user-attachments/assets/7b81c465-01fa-44b1-981b-bfae5121a6de)
+(![image](https://github.com/user-attachments/assets/7b81c465-01fa-44b1-981b-bfae5121a6de)
 
 ## 📄 License
 This project is licensed under the `MIT License` - see the [LICENSE](LICENSE) file for details.
