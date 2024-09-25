@@ -19,7 +19,7 @@ Welcome to the **Docker Resource Monitor**! This application allows you to monit
 1. Clone the repository:
    ```bash
    git clone https://github.com/footcricket05/Docker-Watchtower.git
-   cd repo-name
+   cd Docker-Watchtower
    ```
 
 2. Install dependencies:
